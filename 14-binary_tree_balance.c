@@ -23,7 +23,7 @@ size_t custom_height(const binary_tree_t *tree)
 /**
  * binary_tree_balance - balance factor measure 
  * @tree: Points the root node of the tree 
- * Return: Integer
+ * Return: 
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
